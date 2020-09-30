@@ -2,16 +2,13 @@ import React, { Component } from 'react';
 import './App.css';
 
 class App extends Component {
-
-  constructor(props){
-    super(props);
-    this.state={
-      title: 'React Simple CRUD Application',
+  {/* shorter way of defining state in react */}
+state={
+   title: 'React Simple CRUD Application',
       act: 0,
       index: '',
       datas: []
-    }
-  } 
+}
 
   componentDidMount(){
     this.refs.name.focus();
@@ -24,7 +21,7 @@ class App extends Component {
     let datas = this.state.datas;
     let name = this.refs.name.value;
     let address = this.refs.address.value;
-
+     
     if(this.state.act === 0){   //new
       let data = {
         name, address
@@ -70,7 +67,7 @@ class App extends Component {
   }  
 
   render() {
-    let datas = this.state.datas;
+    let { datas } = this.state;
     return (
       <div className="App">
         <h2>{this.state.title}</h2>
