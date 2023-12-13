@@ -1,14 +1,29 @@
-# ReactJs - simple crud app (with variable)
-This is simple crud app with data on variable, understanding of react think . <br>
+# Reactjs - simple crud
 
-## Features
-* CRUD (create, read, update, delete) just on one form.
+understanding basic flow of reactjs (crud) using variables and class component using typescript, nextjs, css,
 
-## Used Technology
-[reactJs](https://reactjs.org/) 
+## Views
 
-## Screenshot
-![](https://github.com/indracahyae/reactJs-simple-crud/blob/master/screenshots/1.png?raw=true)
-<br> <br>
-With some data.
-![](https://github.com/indracahyae/reactJs-simple-crud/blob/master/screenshots/2.png?raw=true)
+<img src="https://github.com/indracahyae/reactjs-simple-crud/blob/master/public/screenshoots/app.png">
+<br><br>
+
+## Tech Stack
+
+- Typescript = main language
+- Nextjs = reactjs framework
+- Css
+
+## Project Menu
+
+- Tasks: Create, Read, Update, Delete.
+
+## Run Locally
+
+- download or Clone this project
+- Install dependencies/ package
+- prepare and start your local server
+- ready to run project (suitable with your local server)
+
+## Authors
+
+[@indracahyae](https://www.github.com/indracahyae)
