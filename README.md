@@ -4,7 +4,7 @@ understanding basic flow of reactjs (crud) using variables and class component u
 
 ## Views
 
-<img src="https://github.com/indracahyae/reactjs-simple-crud/blob/master/public/screenshoots/app.png">
+<img src="https://github.com/indracahyae/reactjs-simple-crud/blob/master/public/screenshots/app.png">
 <br><br>
 
 ## Tech Stack
