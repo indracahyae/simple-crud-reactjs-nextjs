@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-package-lock.js
+package-lock.json
 
 # production
 .next
