@@ -1,6 +1,6 @@
 # Reactjs - simple crud
 
-understanding basic flow of reactjs (crud) using variables and class component using typescript, nextjs, css,
+understanding basic flow of reactjs (crud) class component using typescript, nextjs, css,
 
 ## Views
 
